@@ -20,14 +20,14 @@ Documenting my Devops learning journey,notes,Projects, and Daily Progress.
 - Monitoring
 
 ## Progress
-### Day 1
+### Day-01
 - Learned Devops basics
 - Learned What is Devops?
 - Learned SDLC
 - Understood Agile vs Waterfall
 - Understood why Devops is using SDLC.
 
-### Day 2
+### Day-02
 - Linux Fundamentals
 - What is Linux?
 - Technologies before Linux
