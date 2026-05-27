@@ -26,3 +26,14 @@ Documenting my Devops learning journey,notes,Projects, and Daily Progress.
 - Learned SDLC
 - Understood Agile vs Waterfall
 - Understood why Devops is using SDLC.
+
+### Day 2
+- Linux Fundamentals
+- What is Linux?
+- Technologies before Linux
+- What is Unix?
+- GNU Project
+- Introduction of Linux
+- Linux Boot Process
+- Ways to access or use Linux servers
+  
