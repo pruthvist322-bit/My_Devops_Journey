@@ -37,3 +37,11 @@ Documenting my Devops learning journey,notes,Projects, and Daily Progress.
 - Linux Boot Process
 - Ways to access or use Linux servers
   
+### Day-3
+- AWS Account Setup for Linux Practice
+#### Why I Choose AWS 
+In Day 2, I decided to practice Linux using AWS so that I can simultaneously learn Linux and gain cloud exposure.
+- Creating an AWS Free Tier Account
+- Problems Faced During AWS Account Creation
+- Solutions for the problems which i have faced while creating the account
+- Key Takeaway
