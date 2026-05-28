@@ -1,4 +1,4 @@
-## AWS Account Setup for Linux Practice
+## Day-3 AWS Account Setup for Linux Practice
 ### Why I Chose AWS
 In Day 2, I decided to practice Linux using AWS so that I can simultaneously learn Linux and gain cloud exposure.
 
