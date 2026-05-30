@@ -45,3 +45,19 @@ In Day 2, I decided to practice Linux using AWS so that I can simultaneously lea
 - Problems Faced During AWS Account Creation
 - Solutions for the problems which i have faced while creating the account
 - Key Takeaway
+
+### Day -4 
+- Creating and Connecting to an AWS EC2 Instance
+#### Objective
+Today I learned how to create an AWS EC2 Instance (Virtual Server) and connect to it using both:
+
+- EC2 Instance Connect (Browser)
+- SSH Client (Local Terminal)
+- What is Ec2?
+- how to launch Instance?
+- What is key pair?
+- How to successfully conect to linux server.
+- Key Takeaway of Day 4.
+
+
+
