@@ -59,5 +59,27 @@ Today I learned how to create an AWS EC2 Instance (Virtual Server) and connect t
 - How to successfully conect to linux server.
 - Key Takeaway of Day 4.
 
+### Day -5
+- Linux Basic Commands
+#### Objective
+Today I learned some fundamental Linux commands that are used daily by Linux administrators, Cloud Engineers, and DevOps Engineers.
+
+- Screen Management
+- File and Directory Listing
+- File Creation
+- Different Types of Listings
+- Directory Creation
+- Nested Directory Creation
+- Viewing Directory Structure
+- Changing Directories
+- Move One Directory Back
+- File Editing
+- Different types of editors
+- Hot to save once after writing content
+- Viewing File Content
+- Delete Operations for single line , whole content
+- setting number in vi
+- Command History
+- Key Takeaway of Day 5.
 
 
