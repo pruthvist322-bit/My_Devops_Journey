@@ -314,4 +314,4 @@ Today I learned essential Linux commands related to:
 * File Editing
 * Command History
 
-These commands form the foundation for Linux administration and DevOps operations.
+
