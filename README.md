@@ -82,4 +82,28 @@ Today I learned some fundamental Linux commands that are used daily by Linux adm
 - Command History
 - Key Takeaway of Day 5.
 
+### Day-6
+- Linux File Management and Text Processing Commands
+#### Objective
+Today I continued learning Linux commands and explored file management, text replacement, user privileges, copying/moving files, and word counting commands.
+These commands are commonly used by Linux Administrators and DevOps Engineers in day-to-day operations.
 
+- String Replacement in vi Editor
+- Replace All Occurrences
+- Replace in a Specific Line
+- Replace Within a Range of Lines
+- Search for a String
+- Replace From a Specific Line to End of File
+- File and Directory Deletion
+- Delete a File
+- Delete an Empty Directory
+- Delete Files and Directories Forcefully
+- Super User (Root) Access
+- What is sudo?
+- Copy Files and Directories
+- Move Files and Directories
+- Rename a File
+- Word Count Commands
+- Count Lines, Words, and Characters
+- Echo Command
+- Key Takeaway
