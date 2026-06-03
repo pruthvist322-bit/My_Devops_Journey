@@ -107,3 +107,27 @@ These commands are commonly used by Linux Administrators and DevOps Engineers in
 - Count Lines, Words, and Characters
 - Echo Command
 - Key Takeaway
+
+### Day-7
+-Linux Redirection, Pipes, Shells, and System Monitoring
+#### Objective
+Today I learned about Linux redirection, append operations, pipes, shell concepts, environment variables, system monitoring commands, and file viewing commands such as head and tail.
+These concepts are widely used in Linux administration, scripting, and DevOps automation.
+- Output Redirection (>)
+- Append Redirection (>>)
+- Getting Help in Linux
+- System Monitoring Commands
+- Check File System Size
+- Check Memory Usage
+- Monitor Running Processes
+- Displays running processes and resource usage.
+- Shell Basics
+- What is a Shell?
+- Common Shell Types
+- Environment Variables
+- Pipe Operator (|)
+- Head Command
+- Tail Command
+- Monitor Live Updates
+- Combining Head and Tail with Pipes
+- Key Takeaway
