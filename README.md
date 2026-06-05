@@ -44,7 +44,7 @@ In Day 2, I decided to practice Linux using AWS so that I can simultaneously lea
 - Creating an AWS Free Tier Account
 - Problems Faced During AWS Account Creation
 - Solutions for the problems which i have faced while creating the account
-- Key Takeaway
+  
 
 ### Day -4 
 - Creating and Connecting to an AWS EC2 Instance
@@ -57,7 +57,7 @@ Today I learned how to create an AWS EC2 Instance (Virtual Server) and connect t
 - how to launch Instance?
 - What is key pair?
 - How to successfully conect to linux server.
-- Key Takeaway of Day 4.
+  
 
 ### Day -5
 - Linux Basic Commands
@@ -80,7 +80,7 @@ Today I learned some fundamental Linux commands that are used daily by Linux adm
 - Delete Operations for single line , whole content
 - setting number in vi
 - Command History
-- Key Takeaway of Day 5.
+
 
 ### Day-6
 - Linux File Management and Text Processing Commands
@@ -106,7 +106,7 @@ These commands are commonly used by Linux Administrators and DevOps Engineers in
 - Word Count Commands
 - Count Lines, Words, and Characters
 - Echo Command
-- Key Takeaway
+  
 
 ### Day-7
 -Linux Redirection, Pipes, Shells, and System Monitoring
@@ -130,4 +130,15 @@ These concepts are widely used in Linux administration, scripting, and DevOps au
 - Tail Command
 - Monitor Live Updates
 - Combining Head and Tail with Pipes
-- Key Takeaway
+
+
+### Day-8
+- Linux File Permissions and Access Control Lists (ACLs)
+#### Topics Covered 
+- Difference Between Files and Directories
+- Understanding Linux Permissions
+- Changing Permissions with chmod
+- Recursive Permission Changes
+- Directory Permissions
+- Access Control Lists (ACLs)
+  
