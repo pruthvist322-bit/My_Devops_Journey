@@ -141,4 +141,22 @@ These concepts are widely used in Linux administration, scripting, and DevOps au
 - Recursive Permission Changes
 - Directory Permissions
 - Access Control Lists (ACLs)
+
+### Day-9
+- Linux User and Group Management
+#### Objective 
+Today I learned how Linux users and groups are managed, how to create and delete users, assign passwords, modify user properties, and understand password policies.
+- Creating Users
+- Create User with Home Directory
+- Viewing Users
+- Display Only Usernames
+- Groups in Linux
+- Setting Passwords
+- Login to Another User
+- Enable Password Authentication
+- Restart SSH Service
+- Delete Users
+- Group Management
+- Modify Username
+- Password Policies
   
