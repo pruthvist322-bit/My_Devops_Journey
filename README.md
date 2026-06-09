@@ -159,4 +159,17 @@ Today I learned how Linux users and groups are managed, how to create and delete
 - Group Management
 - Modify Username
 - Password Policies
-  
+
+### Day-10
+- Passwordless SSH Authentication Between Linux Servers
+#### Objective
+Today I learned how to establish a passwordless SSH connection between two Linux servers using SSH public and private key authentication.
+This method is commonly used in DevOps automation, Ansible, CI/CD pipelines, and server administration.
+- Understanding the Setup
+- Step 1: Change Hostnames
+- Step 2: Generate SSH Keys on Host Server
+- Step 3: View Public Key
+- Step 4: Add Public Key to Target Server
+- Step 5: Connect Without Password
+- Files Involved
+ 
