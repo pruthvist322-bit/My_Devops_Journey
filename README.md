@@ -173,3 +173,13 @@ This method is commonly used in DevOps automation, Ansible, CI/CD pipelines, and
 - Step 5: Connect Without Password
 - Files Involved
  
+### Day-11
+- Linux Text Processing and File Searching Commands
+#### Objective
+Today I learned some of the most powerful Linux commands used for searching, filtering, modifying, and analyzing files.
+These commands are widely used by Linux Administrators, DevOps Engineers, and Site Reliability Engineers (SREs).
+- Grep Command
+- Sed Command (Stream Editor)
+- Awk Command
+- Find Command
+
