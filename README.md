@@ -183,3 +183,14 @@ These commands are widely used by Linux Administrators, DevOps Engineers, and Si
 - Awk Command
 - Find Command
 
+### Day-12
+- Linux Process Management, Links, wget & curl
+#### Objective
+Today I learned about Linux process management, system information commands, file links, and tools used for downloading files and interacting with web servers.
+- System Information Commands
+- Process Management
+- Kill a Process
+- Linux Links
+- wget Command
+- curl Command
+ 
