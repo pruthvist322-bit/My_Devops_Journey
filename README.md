@@ -194,3 +194,13 @@ Today I learned about Linux process management, system information commands, fil
 - wget Command
 - curl Command
  
+### Dat-13
+- File and Folder Transfer in Linux
+#### Objective
+Today I learned different methods to transfer files between local systems and Linux servers securely.
+File transfer is an important concept in Linux administration, cloud environments, and DevOps workflows.
+- File Transfer Using MobaXterm
+- File Transfer Using WinSCP
+- SFTP (Secure File Transfer Protocol)
+- SCP (Secure Copy)
+- Difference Between SFTP and SCP
