@@ -216,3 +216,17 @@ Networking plays a major role in Linux administration, cloud environments, and D
 - Telnet
 - nslookup
 - dig Command
+
+### Day-15
+- Linux Networking Utilities, Firewall & Time Synchronization
+#### Objective 
+Today I learned Linux networking tools, firewall management, text utilities, and system time synchronization.
+These concepts are important for server administration, monitoring, and maintaining reliable production environments.
+- netstat
+- iptables (Linux Firewall)
+- File Viewing Utilities
+- Sorting & Filtering
+- Calendar & System Status
+- xargs
+- Time Synchronization (NTP)
+- chronyd
