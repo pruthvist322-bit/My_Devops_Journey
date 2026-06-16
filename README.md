@@ -194,7 +194,7 @@ Today I learned about Linux process management, system information commands, fil
 - wget Command
 - curl Command
  
-### Dat-13
+### Day-13
 - File and Folder Transfer in Linux
 #### Objective
 Today I learned different methods to transfer files between local systems and Linux servers securely.
@@ -204,3 +204,15 @@ File transfer is an important concept in Linux administration, cloud environment
 - SFTP (Secure File Transfer Protocol)
 - SCP (Secure Copy)
 - Difference Between SFTP and SCP
+
+### Day-14
+- Linux Networking Basics
+#### Objective
+Today I learned networking fundamentals and commands used to test connectivity, inspect ports, analyze traffic, and troubleshoot DNS.
+Networking plays a major role in Linux administration, cloud environments, and DevOps workflows.
+- Ping Command
+- lsof (List Open Files)
+- tcpdump
+- Telnet
+- nslookup
+- dig Command
