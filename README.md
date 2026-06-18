@@ -230,3 +230,13 @@ These concepts are important for server administration, monitoring, and maintain
 - xargs
 - Time Synchronization (NTP)
 - chronyd
+
+### Day-16
+- NFS (Network File System) Setup in AWS EC2
+#### Objective 
+Today I learned how to configure NFS (Network File System) in Linux using AWS EC2 instances.
+NFS allows multiple servers to access and share files over a network as if they were stored locally.
+- Architecture Used
+- Configure NFS Server
+- Steps to Configure
+- Configure NFS Client 
