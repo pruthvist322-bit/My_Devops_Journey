@@ -239,4 +239,16 @@ NFS allows multiple servers to access and share files over a network as if they 
 - Architecture Used
 - Configure NFS Server
 - Steps to Configure
-- Configure NFS Client 
+- Configure NFS Client
+  
+### Day-17
+- Linux Storage Partitioning & Mounting
+- Understanding Storage in Linux
+- Understanding File Systems – ext4
+#### Practical Exercise – Adding a New Volume in AWS
+- Step 1: Attach New Volume
+- Step 2: Partition the Disk
+- Step 3: Format Partition with ext4
+- Step 4: Create Mount Point
+- Step 5: Mount the Partition
+
