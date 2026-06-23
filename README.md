@@ -252,3 +252,12 @@ NFS allows multiple servers to access and share files over a network as if they 
 - Step 4: Create Mount Point
 - Step 5: Mount the Partition
 
+### Day-18
+- Introduction to shell scripting
+- what is shell
+- what is bash scripting
+- what is automation
+- shebang
+- how to run a scripts
+- and some basic scripts
+
