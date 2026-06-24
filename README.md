@@ -261,3 +261,12 @@ NFS allows multiple servers to access and share files over a network as if they 
 - how to run a scripts
 - and some basic scripts
 
+### Day-19
+- Today I continued learning Shell Scripting and explored how automation works in Linux.
+#### Topics Covered
+- Reading user input in shell scripts
+- Understanding special shell variables
+- Numeric comparison operators
+- Conditional statements
+- Loop concepts
+- Automating tasks using Cron Jobs
