@@ -270,3 +270,14 @@ NFS allows multiple servers to access and share files over a network as if they 
 - Conditional statements
 - Loop concepts
 - Automating tasks using Cron Jobs
+
+### Day-20
+- Today I completed my Linux fundamentals learning and started learning Cloud Computing concepts.
+- What is Cloud Computing
+- Difference Between On-Premises and Cloud Computing
+- On-Premises
+- Cloud Computing
+- Advantages of Cloud
+- Cloud Service Models
+- Cloud Deployment Models
+- Overview of AWS Services
