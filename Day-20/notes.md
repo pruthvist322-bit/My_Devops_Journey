@@ -1,4 +1,4 @@
-Day 20 – Introduction to Cloud Computing
+## Day 20 – Introduction to Cloud Computing
 
 Today I completed my Linux fundamentals learning and started learning Cloud Computing concepts.
 
