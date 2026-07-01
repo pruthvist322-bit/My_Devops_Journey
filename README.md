@@ -281,3 +281,14 @@ NFS allows multiple servers to access and share files over a network as if they 
 - Cloud Service Models
 - Cloud Deployment Models
 - Overview of AWS Services
+
+### Dya-21
+- Today I continued my AWS learning and explored IAM, which is one of the core AWS services used to manage access and permissions securely.
+- What is IAM
+- Why IAM is Used
+- IAM Users
+- IAM Groups
+- Permissions
+- ARN (Amazon Resource Name)
+- IAM Roles
+- Difference Between IAM Role and IAM Policy
