@@ -292,3 +292,17 @@ NFS allows multiple servers to access and share files over a network as if they 
 - ARN (Amazon Resource Name)
 - IAM Roles
 - Difference Between IAM Role and IAM Policy
+
+### Day-22
+- Today I learned about AWS EC2 service and explored how virtual servers are created and configured in AWS.
+- What is EC2
+- Types of EC2 Instances
+- Name Tag
+- AMI (Amazon Machine Image)
+- Types of AMIs Learned
+- Instance Type
+- Key Pair
+- Security Groups
+- Storage Configuration
+- User Data (Optional)
+  
