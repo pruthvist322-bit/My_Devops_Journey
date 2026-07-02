@@ -306,3 +306,13 @@ NFS allows multiple servers to access and share files over a network as if they 
 - Storage Configuration
 - User Data (Optional)
   
+### Day-23
+- Today I continued learning AWS EC2 and explored advanced concepts related to EC2 pricing models, Amazon Machine Images (AMI), and Snapshots.
+- Spot Instances
+- Savings Plans
+- Reserved Instances
+- Dedicated Hosts
+- Amazon Machine Image (AMI)
+- Creating an AMI
+- Launching an EC2 Instance using an AMI
+- Snapshot
