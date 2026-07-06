@@ -1,4 +1,4 @@
-## Day 25 – AWS Elastic Load Balancer (ELB)
+## Day 24 – AWS Elastic Load Balancer (ELB)
 
 Today I learned one of the most important services in AWS: **Elastic Load Balancer (ELB)**.
 
@@ -116,4 +116,4 @@ Observed requests being distributed between both EC2 instances, confirming that 
 
 Elastic Load Balancer is an essential AWS service that improves scalability, availability, and reliability by distributing incoming traffic across multiple EC2 instances.
 
-Day 25 Completed ✅
+Day 24 Completed ✅
