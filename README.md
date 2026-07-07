@@ -317,7 +317,7 @@ NFS allows multiple servers to access and share files over a network as if they 
 - Launching an EC2 Instance using an AMI
 - Snapshot
 
-### Day-25 
+### Day-24
 - Today I learned one of the most important services in AWS: Elastic Load Balancer (ELB).
 A Load Balancer automatically distributes incoming traffic across multiple EC2 instances, improving application availability, scalability, and fault tolerance.
 - What is a Load Balancer?
@@ -325,3 +325,11 @@ A Load Balancer automatically distributes incoming traffic across multiple EC2 i
 - Types of Load Balancers
 - Hands-on Activity
 - Verified the Load Balancer
+
+### Day-25
+- Today I learned one of the most important AWS services: **Auto Scaling**.
+Auto Scaling automatically adds or removes EC2 instances based on application demand. It helps maintain application availability while optimizing infrastructure costs.
+- What is Auto Scaling?
+- Why Auto Scaling is Used
+- Hands-on Activity
+- Steps to create ASG
