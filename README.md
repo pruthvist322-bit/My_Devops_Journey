@@ -333,3 +333,11 @@ Auto Scaling automatically adds or removes EC2 instances based on application de
 - Why Auto Scaling is Used
 - Hands-on Activity
 - Steps to create ASG
+
+### Day-26
+- Today, I learned how to purchase a domain, connect it with AWS, and secure it using an SSL/TLS certificate.
+- Understood how DNS works with AWS Route 53.
+- Learned the purpose of Name Servers and Hosted Zones.
+- Gained hands-on experience configuring DNS records.
+- Learned how SSL/TLS certificates are issued and validated.
+- Successfully hosted a secure website using a custom domain and HTTPS
