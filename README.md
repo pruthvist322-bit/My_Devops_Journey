@@ -341,3 +341,13 @@ Auto Scaling automatically adds or removes EC2 instances based on application de
 - Gained hands-on experience configuring DNS records.
 - Learned how SSL/TLS certificates are issued and validated.
 - Successfully hosted a secure website using a custom domain and HTTPS
+
+### Day-27
+- Learn the fundamentals of AWS networking by creating a Virtual Private Cloud (VPC) with public and private subnets.
+## Concepts Learned
+- Virtual Private Cloud (VPC)
+- Internet Gateway (IGW)
+- Route Tables
+- NAT Gateway
+- Public Subnet
+- Private Subnet
