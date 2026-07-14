@@ -351,3 +351,16 @@ Auto Scaling automatically adds or removes EC2 instances based on application de
 - NAT Gateway
 - Public Subnet
 - Private Subnet
+
+### Dat-28
+- Today I learned about **Amazon S3 (Simple Storage Service)**, one of the most widely used storage services in AWS. I also explored **Amazon CloudFront (CDN)** and learned how it improves the performance of static websites.
+- What is Amazon S3?
+- Objects That Can Be Stored in S3
+- S3 Permissions
+- S3 Properties
+- S3 Lifecycle
+- Creating an S3 Bucket
+- Hosting a Static Website
+- Amazon CloudFront (CDN)
+- Advantages of Amazon S3
+- Advantages of CloudFront (CDN)
