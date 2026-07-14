@@ -352,7 +352,7 @@ Auto Scaling automatically adds or removes EC2 instances based on application de
 - Public Subnet
 - Private Subnet
 
-### Dat-28
+### Day-28
 - Today I learned about **Amazon S3 (Simple Storage Service)**, one of the most widely used storage services in AWS. I also explored **Amazon CloudFront (CDN)** and learned how it improves the performance of static websites.
 - What is Amazon S3?
 - Objects That Can Be Stored in S3
@@ -364,3 +364,17 @@ Auto Scaling automatically adds or removes EC2 instances based on application de
 - Amazon CloudFront (CDN)
 - Advantages of Amazon S3
 - Advantages of CloudFront (CDN)
+
+### Day-29
+- Today I learned one of the most important concepts in AWS: **Monitoring** using **Amazon CloudWatch** and **Amazon SNS (Simple Notification Service)**. Monitoring helps us continuously track the health and performance of AWS resources. I also learned how to configure alerts that notify us whenever a resource crosses a specified threshold.
+- What is AWS Monitoring
+- Why Monitoring is important
+- What is Amazon CloudWatch
+- What is Amazon SNS
+- How to create an SNS Topic
+- How to add an Email Subscription
+- How to confirm an SNS Subscription
+- How to create a CloudWatch Alarm
+- How to monitor EC2 CPU Utilization
+- How to configure alarm thresholds
+- How CloudWatch and SNS work together to send notifications
