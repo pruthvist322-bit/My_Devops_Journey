@@ -1,4 +1,4 @@
-# Day 27 – AWS S3 (Simple Storage Service) & CloudFront (CDN)
+# Day 28 – AWS S3 (Simple Storage Service) & CloudFront (CDN)
 
 ## Overview
 
