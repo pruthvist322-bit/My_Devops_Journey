@@ -378,3 +378,14 @@ Auto Scaling automatically adds or removes EC2 instances based on application de
 - How to monitor EC2 CPU Utilization
 - How to configure alarm thresholds
 - How CloudWatch and SNS work together to send notifications
+
+
+### Day-30
+- Today I learned about one of the important AWS serverless services: **AWS Lambda**.
+AWS Lambda allows us to run code without managing or provisioning servers.
+- What is AWS Lambda
+- How to create a Lambda Function
+- How to add code to a Lambda Function
+- How to test a Lambda Function
+- How to trigger a Lambda Function
+- How to provide permissions using IAM Roles  
