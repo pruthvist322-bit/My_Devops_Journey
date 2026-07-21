@@ -389,3 +389,16 @@ AWS Lambda allows us to run code without managing or provisioning servers.
 - How to test a Lambda Function
 - How to trigger a Lambda Function
 - How to provide permissions using IAM Roles  
+
+### Day-31
+- Today I learned one of the most important tools in AWS: **AWS Command Line Interface (AWS CLI)**.
+AWS CLI allows us to interact with AWS services directly from the terminal using commands, making it easier to automate tasks and manage AWS resources efficiently.
+-  What is AWS CLI
+- Why AWS CLI is used
+- Steps to install AWS CLI on Linux
+- Steps to install AWS CLI on Windows
+- How to configure AWS CLI
+- How to create AWS resources using CLI commands
+- How to perform backups using AWS CLI
+- Hands-on practice with AWS CLI commands
+
