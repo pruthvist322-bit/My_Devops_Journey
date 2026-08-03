@@ -402,3 +402,20 @@ AWS CLI allows us to interact with AWS services directly from the terminal using
 - How to perform backups using AWS CLI
 - Hands-on practice with AWS CLI commands
 
+### Day-32
+- Today I started learning one of the core tools used in DevOps: **Git and GitHub**.
+I learned how Git helps in version control and how GitHub is used to host repositories for collaboration and code management. I also performed hands-on practice by connecting my EC2 instance and IDE to GitHub, creating branches, committing changes, and merging them.
+- ## What I Learned
+
+- What is Git
+- What is GitHub
+- Difference between Git and GitHub
+- Connecting EC2 with GitHub
+- Connecting GitHub with VS Code
+- Connecting GitHub using Terminal
+- Common Git Commands
+- Git Merge
+- Git Rebase
+- Git Squash
+- Hands-on Branching and Merging
+- Useful VS Code Extensions for Git
