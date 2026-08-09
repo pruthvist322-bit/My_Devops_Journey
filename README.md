@@ -605,3 +605,7 @@ Maven simplifies Java project development by automating builds, managing depende
 ✅ How to install Java and Maven on Windows
 ✅ How to install Java and Maven on an AWS EC2 Linux instance
 ✅ Maven lifecycle commands and their purpose
+
+
+### Day-34 
+- Apache tomcat and its installation steps 
