@@ -614,16 +614,16 @@ Maven simplifies Java project development by automating builds, managing depende
 ### Day-35-40
 📚 What I learned:
 
-✅ What is Jenkins
-✅ Why Jenkins is used
-✅ How to install and configure Jenkins
-✅ How to create and configure Jenkins jobs
-✅ How to connect Jenkins with GitHub
-✅ How to clone Git repositories through Jenkins
-✅ How to configure build steps
-✅ How to integrate Maven with Jenkins
-✅ What GitHub Webhooks are
-✅ How Webhooks can trigger Jenkins builds
-✅ How to change the Apache Tomcat port
-✅ Understanding CI and CD
-✅ Complete CI/CD workflow
+- ✅ What is Jenkins
+- ✅ Why Jenkins is used
+- ✅ How to install and configure Jenkins
+- ✅ How to create and configure Jenkins jobs
+- ✅ How to connect Jenkins with GitHub
+- ✅ How to clone Git repositories through Jenkins
+- ✅ How to configure build steps
+- ✅ How to integrate Maven with Jenkins
+- ✅ What GitHub Webhooks are
+- ✅ How Webhooks can trigger Jenkins builds
+- ✅ How to change the Apache Tomcat port
+- ✅ Understanding CI and CD
+- ✅ Complete CI/CD workflow
